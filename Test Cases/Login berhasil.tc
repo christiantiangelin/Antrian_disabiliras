@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login berhasil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a85cdc6e-6890-4bcc-8cee-22f4b0beb740</testCaseGuid>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>e60fd02e-8eb7-43d1-9690-c443a4b408c6</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>d483e4d2-e025-46fd-bcee-678e510d7b9f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'pass'</defaultValue>
+      <description></description>
+      <id>d7e28dff-52a3-4b19-bd27-8d62162da892</id>
+      <masked>false</masked>
+      <name>login_expected</name>
+   </variable>
+</TestCaseEntity>

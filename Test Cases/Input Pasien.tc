@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Pasien</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57150af2-b734-4a75-a2e8-d69efeb5382e</testCaseGuid>
+   <variable>
+      <defaultValue>'sujarwo'</defaultValue>
+      <description></description>
+      <id>3338d89b-1bbc-42c5-8250-cb0478d3e5fc</id>
+      <masked>false</masked>
+      <name>nama_pasien</name>
+   </variable>
+   <variable>
+      <defaultValue>'0007'</defaultValue>
+      <description></description>
+      <id>06d67bf6-2470-4dfa-99a1-cea832f7dc7e</id>
+      <masked>false</masked>
+      <name>no_rekam_medis</name>
+   </variable>
+   <variable>
+      <defaultValue>'08123456789'</defaultValue>
+      <description></description>
+      <id>651cef95-5006-40b7-826f-1aa45514a463</id>
+      <masked>false</masked>
+      <name>tlpn</name>
+   </variable>
+   <variable>
+      <defaultValue>'21-06-2020'</defaultValue>
+      <description></description>
+      <id>4038cd2e-4ad1-4713-99cb-a5800f7c202a</id>
+      <masked>false</masked>
+      <name>ttl</name>
+   </variable>
+   <variable>
+      <defaultValue>'jl. mawar'</defaultValue>
+      <description></description>
+      <id>ca80642a-329c-41c6-b637-e311b7a4c160</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+   <variable>
+      <defaultValue>'no'</defaultValue>
+      <description></description>
+      <id>5464cac1-dd93-4fc5-8530-95cdccb30cd1</id>
+      <masked>false</masked>
+      <name>disabilitas</name>
+   </variable>
+   <variable>
+      <defaultValue>'xxx'</defaultValue>
+      <description></description>
+      <id>cc6ad099-e659-451d-915c-476e24c61270</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+   <variable>
+      <defaultValue>'pass'</defaultValue>
+      <description></description>
+      <id>ff9a8641-2c92-4230-998b-d18cea5aa652</id>
+      <masked>false</masked>
+      <name>expected_tampil_pasien</name>
+   </variable>
+</TestCaseEntity>
